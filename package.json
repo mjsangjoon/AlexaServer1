@@ -1,0 +1,28 @@
+{
+  "name": "alexaserver1",
+  "version": "1.0.0",
+  "description": "Alexa tutorial using NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjsangjoon/AlexaServer1.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Server",
+    "Tutorial"
+  ],
+  "author": "Michael Chin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjsangjoon/AlexaServer1/issues"
+  },
+  "homepage": "https://github.com/mjsangjoon/AlexaServer1#readme"
+}
