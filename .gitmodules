@@ -1,0 +1,3 @@
+[submodule "apps/AlexaNumbers"]
+	path = apps/AlexaNumbers
+	url = https://github.com/mjsangjoon/AlexaNumbers.get
