@@ -1,3 +1,3 @@
 [submodule "apps/AlexaNumbers"]
 	path = apps/AlexaNumbers
-	url = https://github.com/mjsangjoon/AlexaNumbers.get
+	url = git@github.com:mjsangjoon/AlexaNumbers.git
